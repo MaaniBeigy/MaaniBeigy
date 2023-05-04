@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @MaaniBeigy<br>- 👀 I’m interested in Data Science.<br>- 🌱 I’m currently learning Data Engineering.<br>- 📫 How to reach me manibeygi@gmail.com
+- 👋 Hi, I’m @MaaniBeigy<br>- 📫 How to reach me manibeygi@gmail.com
 
 
 ## 🌐 Socials:
