@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 - 👋 Hi, I’m @MaaniBeigy<br>- 📫 How to reach me maanibeigy@gmail.com
 
 
